@@ -1,0 +1,7 @@
+D:\Chenshunji_files\L200P\MyPojects\att\att\bin\Debug\att.exe
+D:\Chenshunji_files\L200P\MyPojects\att\att\bin\Debug\att.pdb
+D:\Chenshunji_files\L200P\MyPojects\att\att\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Chenshunji_files\L200P\MyPojects\att\att\obj\x86\Debug\att.exe
+D:\Chenshunji_files\L200P\MyPojects\att\att\obj\x86\Debug\att.pdb
+C:\Users\chenshunji.UCLOUD\Desktop\qqqq\HiHub\att\att\obj\x86\Debug\att.exe
+C:\Users\chenshunji.UCLOUD\Desktop\qqqq\HiHub\att\att\obj\x86\Debug\att.pdb
